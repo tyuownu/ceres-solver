@@ -24,3 +24,8 @@ tracking. Please see our [Contributing to Ceres Guide](http://ceres-solver.org/c
 The upstream Gerrit repository is
 
     https://ceres-solver.googlesource.com/ceres-solver
+
+
+VERSION: from slambook
+fd7cab65ef30fbc33612220abed52dd5073413c4
+
